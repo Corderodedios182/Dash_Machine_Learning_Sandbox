@@ -1,6 +1,6 @@
 # Dash Machine Learning Sandbox
 
-(https://th.bing.com/th/id/R.a0ca20f353fd98cc3b34624dba8ccdad?rik=LA0iqWENWEEERQ&riu=http%3a%2f%2fgreedoortodoor.com%2fstyle%2fimages%2findex_bg_3.png&ehk=WtZSQ8vIDi%2fVBD0UabvjWHQp8IhMSjfALAU0lHtCvK0%3d&risl=&pid=ImgRaw&r=0)
+![Aquí la descripción de la imagen por si no carga](https://th.bing.com/th/id/R.a0ca20f353fd98cc3b34624dba8ccdad?rik=LA0iqWENWEEERQ&riu=http%3a%2f%2fgreedoortodoor.com%2fstyle%2fimages%2findex_bg_3.png&ehk=WtZSQ8vIDi%2fVBD0UabvjWHQp8IhMSjfALAU0lHtCvK0%3d&risl=&pid=ImgRaw&r=0)
 
 👨🏻‍💻 🤖  🐋  🧪  🧩 
 
